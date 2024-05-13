@@ -7,8 +7,8 @@ evaluate model robustness against non-obvious attacks to mitigate the generation
 of offensive images. By focusing on “implicitly adversarial” prompts (those that
 trigger T2I models to generate unsafe images for non-obvious reasons), we
 isolate a set of difficult safety issues that human creativity is well-suited to
-uncover. To this end, we built the Adversarial Nibbler Challenge, a red-teaming
-methodology for crowdsourcing a diverse set of implicitly adversarial prompts.
+uncover. To this end, we built the (Adversarial Nibbler Challenge)[https://dynabench.org/tasks/adversarial-nibbler], a red-teaming
+methodology for crowdsourcing a diverse set of implicitly adversarial prompts. The challenge is hosted at the (MLCommons competition space)[https://dynabench.org/tasks].
 
 
 ## Repository Overview
