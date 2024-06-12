@@ -165,6 +165,22 @@ dataset.
 
 ## Papers
 
-<a href="https://arxiv.org/abs/2403.12075">Adversarial
-Nibbler: An Open Red-Teaming Method for Identifying Diverse Harms in
-Text-to-Image Generation (2024)</a>.
+Jessica Quaye, Alicia Parrish, Oana Inel, Charvi Rastogi, Hannah Rose Kirk, Minsuk Kahng, Erin van Liemt, Max Bartolo, Jess Tsang, Justin White, Nathan Clement, Rafael Mosquera, Juan Ciro, Vijay Janapa Reddi, and Lora Aroyo. 2024. [Adversarial Nibbler: An Open Red-Teaming Method for Identifying Diverse Harms in Text-to-Image Generation](https://doi.org/10.1145/3630106.3658913). In The 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’24), June 03–06, 2024, Rio de Janeiro, Brazil.
+
+```
+@inproceedings{quaye2024nibbler,
+author = {Quaye, Jessica and Parrish, Alicia and Inel, Oana and Rastogi, Charvi and Kirk, Hannah Rose and Kahng, Minsuk and Van Liemt, Erin and Bartolo, Max and Tsang, Jess and White, Justin and Clement, Nathan and Mosquera, Rafael and Ciro, Juan and Janapa Reddi, Vijay and Aroyo, Lora},
+title = {Adversarial Nibbler: An Open Red-Teaming Method for Identifying Diverse Harms in Text-to-Image Generation},
+year = {2024},
+isbn = {9798400704505},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3630106.3658913},
+doi = {10.1145/3630106.3658913},
+pages = {388–406},
+numpages = {19},
+keywords = {Adversarial Testing, Crowdsourcing, Data-centric AI, Red teaming, Text-to-image},
+location = {<conf-loc>, <city>Rio de Janeiro</city>, <country>Brazil</country>, </conf-loc>},
+series = {FAccT '24}
+}
+```
