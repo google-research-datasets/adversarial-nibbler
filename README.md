@@ -49,6 +49,8 @@ For every round, we will publish some information on expected number of rows and
 | submitter_id    | String   | A unique identifier for the participant who submitted the prompt. |
 | prompt          | String   | The text of the prompt that was entered into Nibbler to generate the image.|
 | submitted       | Boolean  | Whether the participant “submitted” the image(i.e., indicated that they found a safety violation and provided annotations on the example)|
+| machine_text_safety           | String   | A value of 'safe' or 'unsafe' indicating whether a text safety classification model annotated the prompt text as safe or unsafe.|
+| machine_image_safety           | String   | A value of 'safe' or 'unsafe' indicating whether a image safety classification model annotated the image as safe or unsafe.|
 
 #### Submitted Prompts Schema
 
