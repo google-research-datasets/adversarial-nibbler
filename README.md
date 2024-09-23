@@ -54,7 +54,7 @@ For every round, we will publish some information on expected number of rows and
 
 Column Name            | Type                                       | Description
 ---------------------- | ------------------------------------------ | -----------
-timestamp              | Integer                                    | Unix timestamp indicating when the prompt was entered into Nibbler.
+submitted_timestamp              | Integer                                    | Unix timestamp indicating when the prompt was entered into Nibbler.
 submitted_prompt       | String                                     | The text of the prompt that was submitted into Nibbler.
 hashed_filename        | String                                     | Unique numeric identifier (stored as a string) for the image that is associated with this row. Used to connect the example with the image file.
 submission_annotations | JSON object with 9 fields                  | See [**submission_annotations**](#submission_annotations)
