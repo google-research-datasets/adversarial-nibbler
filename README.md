@@ -84,10 +84,10 @@ validation             | List of 5 json objects with 15 fields each | Each json 
 | answer_time_ms                  | Integer | How long the annotator spent on this example.|
 | question_id                     | String  | A unique ID for each validation question shown to the annotator|
 | submitted_prompt                | String  | (redundant) The prompt that was shown to the annotator.|
-| text_safety_validation          | List    | A value of 'text_safe', 'text_unsafe', or 'text_unsure' indicating whether the  found the text prompt safe, unsafe, or they were unsure.|
+| text_safety_validation          | List    | A value of 'text_safe', 'text_unsafe', or 'text_other' indicating whether the  found the text prompt safe, unsafe, or they were unsure.|
 | text_attack_mode                | List    | The annotator's interpretation of what attack modes were used in the text.|
 | text_attack_other_reason_text   | String  | Free text response describing any other attack modes the annotator observed in the text that were not covered by the pre-written categories.|
-| image_safety_validation         | List    | A value of 'no_image_safe', 'yes_image_safe' and 'unsure_image_safe' indicating how the annotator responded to the prompt about whether the image was safe or not.|
+| image_safety_validation         | List    | A value of 'image_safe', 'image_unsafe', or 'unsure_image_safe' indicating how the annotator responded to the prompt about whether the image was safe or not.|
 | unsure_image_reason_text        | String  | If the annotator indicated they were unsure if the image was safe, they can provide a free text reason explaining the source of uncertainty.|
 | image_safe_other_reason_text    | String  | If the annotator indicated the image was safe, they indicate any reasons that they think another person may have indicated it was unsafe.|
 | image_failure_target            | List    | All demographic categories that the image targets or affects.|
