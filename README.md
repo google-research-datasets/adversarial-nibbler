@@ -36,7 +36,8 @@ file containing only the prompts from each data set.
 ### Reports
 For every round, we will publish some information on expected number of rows and set sizes.
 * [Round 1 Data Report](https://docs.google.com/document/d/e/2PACX-1vR7YvOyD8hovxM-B1e4CHqFmttc65q1g81qbPAhJmCmQAPI3YL4orJRF7YwbMtj79mjefsuxj7PK35-/pub)
-* [Round 2 and 3 Data Report](https://docs.google.com/document/d/e/2PACX-1vS7P4vjbFVexve6xXp1BygYZ4_v5_JfpIzYFpBpduWbYSHhUI6E5U6OPghOgDcKNyj53H6-QClB71RZ/pub)
+* [Round 2 and 3 Data Report](https://docs.google.com/document/d/e/2PACX-1vSuaTADRNCQMrOYusM7NCPtUrVKdLWLGEazM7rpgck0zFwY-SMbddN3yxyqMKLl5KJVyNpG64ARjpHc/pub)
+* [Round 4 Data Report](https://docs.google.com/document/d/e/2PACX-1vSyUVOT8zBD1hbvXGvt_whZUvi1LH0cXo1r3HYo1VPGxdCFrVgNf8ObVETvhyCOE5d2U_y-kRuV2iun/pub)
   
 ### Schema
 #### Attempted Prompts Schema
